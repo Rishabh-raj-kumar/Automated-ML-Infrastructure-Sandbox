@@ -1,4 +1,3 @@
-```markdown
 # Local Cloud ML Sandbox: Zero-Cost AIOps Architecture
 
 ## Overview
@@ -100,6 +99,4 @@ cd ..
 
 # Stop LocalStack
 docker-compose down
-```
-```
 
